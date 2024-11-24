@@ -1,0 +1,9 @@
+{
+  "action": "workflow_dispatch",
+  "inputs": {
+      "name": "monalisa",
+      "message": "Hello, world!",
+      "use-emoji": "true",
+      "environment": "production"
+  }
+}
